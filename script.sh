@@ -1,5 +1,7 @@
 #!/bin/bash
 
+#TODO: check if ips file can be opened
+
 #Global variables and constants
 
 SSH_OPTIONS="-ostricthostkeychecking=no"
